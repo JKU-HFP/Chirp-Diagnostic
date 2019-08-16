@@ -9,4 +9,4 @@ The notebooks are to be used as follows:
 - Applying MOSAIC filter on measured signal -> Apply_MOSAIC_on_Measured_Signal.ipynb
 - Simulating IAC signal with applied MOSAIC filter -> Simulating_IAC_MOSAIC_of_chirped_Laser.ipynb
 - Simulating IAC signal + pulse shaper and applied MOSAIC filter -> Simulating_IAC_of_cut-off_chirped_Laser
-- Determine chirp of signal with applied MOSAIC filter -> itting_MOSAIC_Signal_with_Envelope.ipynb
+- Determine chirp of signal with applied MOSAIC filter -> Fitting_MOSAIC_Signal_with_Envelope.ipynb
